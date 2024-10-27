@@ -5,9 +5,9 @@ Replace Your Key with the apikey that you get in your profile.
 */
 
 module.exports = {
-  ownerUsernames: [""],//Your Username
-  ownerNumber: "",//Your Number 
-  telegramBotToken: "",//Your Bot Tokens
+  ownerUsernames: ["@rerez_z_hosting"],//Your Username
+  ownerNumber: "6285216955233",//Your Number 
+  telegramBotToken: "7680493073:AAEkxqXl9xJD8ktHgm74mdHZpp5XKHv0dpA",//Your Bot Tokens
   imageUrl: "https://btch.pages.dev/file/313139c543db723fb67e6.jpg",//Thumbnail Url
   buttonUrl: "https://github.com/ERLANRAHMAT/telebot",//Script Url
   api: "https://api.betabotz.eu.org",
